@@ -1,7 +1,7 @@
 # 🩺 Retinal Blood Vessel Segmentation with SegFormer
 
 <p align="center">
-  <img src="assets/icprinference.png" alt="Inference Results" width="900"/>
+  <img src="assets/icprInference.png" alt="Inference Results" width="900"/>
 </p>
 
 <p align="center">
