@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Dataset (never commit raw data to git)
+icpr_prepared/
+*.zip
+*.tar.gz
+*.tif
+*.tiff
+
+# Model weights & checkpoints
+checkpoints/
+wandb/
+*.tar
+*.pt
+*.pth
+*.ckpt
+
+# WandB
+wandb/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+runs/
+logs/
