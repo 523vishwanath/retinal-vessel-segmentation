@@ -186,7 +186,7 @@ Uses HuggingFace's built-in processor for resizing, normalization, and correct t
 
 ## 📈 Training Curves
 
-WandB run: *(link your W&B run here)*
+WandB run: https://wandb.ai/vninganolla-florida-state-universit/ICPR_BloodVessels_segmentation?nw=nwuservninganolla
 
 Metrics tracked per epoch:
 - `loss` / `val_loss`
