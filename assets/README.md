@@ -76,7 +76,7 @@ icpr_prepared/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/retinal-vessel-segmentation.git
+git clone https://github.com/523vishwanath/retinal-vessel-segmentation.git
 cd retinal-vessel-segmentation
 ```
 
